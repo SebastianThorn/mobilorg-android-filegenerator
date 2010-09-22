@@ -1,0 +1,6 @@
+README
+
+USAGE:
+        *First you need to gather all your files in the same dir as your index.org
+        *Now you need to have these files: checksums.dat, index.org
+        *This script will wipe your current index.org
